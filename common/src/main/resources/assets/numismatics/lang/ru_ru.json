@@ -41,7 +41,6 @@
   "gui.numismatics.vendor.generic_named": "Свяжитесь с %s",
   "gui.numismatics.vendor.incorrect_item": "Неправильный предмет",
   "gui.numismatics.vendor.insufficient_funds": "Недостаточно средств",
-  "gui.numismatics.vendor.insufficient_funds.named": "Недостаточно средств, свяжитесь с %s, чтобы тот его пополнил",
   "gui.numismatics.vendor.mode.buy": "Покупка",
   "gui.numismatics.vendor.mode.buy.action": "Кликните для покупки",
   "gui.numismatics.vendor.mode.sell": "Продажа",
